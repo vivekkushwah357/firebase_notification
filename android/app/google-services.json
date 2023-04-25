@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601880072750",
+    "project_id": "notification-cad1d",
+    "storage_bucket": "notification-cad1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601880072750:android:9d36501511a2b8dd6c45bf",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601880072750-brjvcft3vf9vb40tv7gk6tigqk6sul5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbLXf6ZhxFNOlgqgWzAiQ5Jmt4YB-6QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601880072750-brjvcft3vf9vb40tv7gk6tigqk6sul5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
